@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "CrazyJ Launches Site"
+title: "Setting up new site."
 date: 2019-03-02
 ---
 
-Launching my first site in awhile.
+Launching my new site to track my security training, notes, writeups etc.
